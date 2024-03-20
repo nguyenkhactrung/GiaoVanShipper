@@ -1,0 +1,20 @@
+Đặt hàng		- Giao diện đặt hàng cho khách hàng. 
+			- Xác định tuyến đường vận chuyển phù hợp. 
+			- Tạo kế hoạch vận tải theo thời gian.
+
+Quản lý hàng hóa	- Lưu trữ và quản lý thông tin hàng hóa. 
+			- Tạo đơn đặt hàng đóng gói, đánh dấu và chuẩn bị hàng hóa.
+
+Theo dõi đơn hàng	- Sắp xếp vận chuyển theo phương tiện phù hợp. 
+			- Theo dõi và điều phối vận chuyển, ghi nhận vị trí và tình trạng phương tiện.
+
+Giao nhận		- Quản lý quá trình giao nhận hàng hóa. 
+			- Cung cấp chức năng kiểm tra và xác nhận, lập biên bản giao nhận.
+
+Hệ thống thông báo	- Gửi thông báo về trạng thái đơn hàng, thông tin vận chuyển và dự kiến giao hàng.
+
+Quản lý người dùng	- Quản lý khách hàng: Lưu thông tin, lịch sử sử dụng dịch vụ. 
+			- Quản lý nhân viên giao hàng: Lưu thông tin, phương tiện, đánh giá.
+
+Phản hồi và đánh giá	- Cho phép khách hàng và shipper đánh giá, phản hồi về quá trình giao nhận và dịch vụ. 
+			- Ghi nhận và hiển thị phản hồi, đánh giá để cải thiện chất lượng dịch vụ.
