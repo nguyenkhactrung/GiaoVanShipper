@@ -1,20 +1,26 @@
-Đặt hàng		- Giao diện đặt hàng cho khách hàng. 
-			- Xác định tuyến đường vận chuyển phù hợp. 
+Năng Anh-Đặt hàng 	- Xác định tuyến đường vận chuyển phù hợp. 
 			- Tạo kế hoạch vận tải theo thời gian.
+			- Nhận thông tin đơn hàng từ khách hàng (tên người gửi, tên người nhận, số điện thoại người gửi, số điện thoại người nhận, loại hàng, cân nặng, số lượng, thời gian 			giao hàng, địa chỉ). Quản lý lưu và in phiếu giao hàng
 
-Quản lý hàng hóa	- Lưu trữ và quản lý thông tin hàng hóa. 
+Hiếu-Quản lý hàng hóa	- Lưu trữ và quản lý thông tin hàng hóa. 
+				+ Cập nhật số lượng hàng hóa trong kho. 
+				+ Thêm hàng hóa vào kho. 
+				+ Đánh dấu, phân loại hàng hóa dựa theo khoảng cách giao hàng, cân nặng
 			- Tạo đơn đặt hàng đóng gói, đánh dấu và chuẩn bị hàng hóa.
 
-Theo dõi đơn hàng	- Sắp xếp vận chuyển theo phương tiện phù hợp. 
+Quang-Theo dõi đơn hàng	- Sắp xếp vận chuyển theo phương tiện phù hợp. 
 			- Theo dõi và điều phối vận chuyển, ghi nhận vị trí và tình trạng phương tiện.
 
-Giao nhận		- Quản lý quá trình giao nhận hàng hóa. 
+Quang-Giao nhận		- Quản lý quá trình giao nhận hàng hóa. 
+				+ Lập tuyến đường: dựa vào điểm xuất phát (địa điểm kho) đến địa điểm giao hàng để chọn tuyến đường tối ưu về thời gian, chi phí, giao thông, lên kế hoạch 				thời gian vận chuyển
+				+ Phân công đơn hàng: Chia các đơn hàng cho người vận chuyển dựa trên khu vực giao hàng, phương tiện di chuyển, kích thước, trọng lượng
 			- Cung cấp chức năng kiểm tra và xác nhận, lập biên bản giao nhận.
 
-Hệ thống thông báo	- Gửi thông báo về trạng thái đơn hàng, thông tin vận chuyển và dự kiến giao hàng.
-
 Quản lý người dùng	- Quản lý khách hàng: Lưu thông tin, lịch sử sử dụng dịch vụ. 
-			- Quản lý nhân viên giao hàng: Lưu thông tin, phương tiện, đánh giá.
+(Trung)			- Quản lý nhân viên giao hàng: Lưu thông tin, phương tiện, đánh giá.
 
 Phản hồi và đánh giá	- Cho phép khách hàng và shipper đánh giá, phản hồi về quá trình giao nhận và dịch vụ. 
-			- Ghi nhận và hiển thị phản hồi, đánh giá để cải thiện chất lượng dịch vụ.
+(Đỗ Anh)			- Ghi nhận và hiển thị phản hồi, đánh giá để cải thiện chất lượng dịch vụ.
+
+Báo cáo thống kê: 	- Thống kê doanh thu, thời gian vận chuyển trung bình, tỷ lệ giao hàng đúng hạn, tỷ lệ giao hàng quá hạn, tỷ lệ giao hàng thất bại(hàng hóa bị hư hỏng, giao nhầm, (Năng Anh)			thất lạc)
+			- Thống kê các shipper có lượt đánh giá tốt, lượt đánh giá xấu
